@@ -1,4 +1,4 @@
-                                           # Data_Visualization_with_Amazon_QuickSight_and_S3
+                                  # Data_Visualization_with_Amazon_QuickSight_and_S3
 
 Project Overview
 ____________________________________________________________________________________________________________________________
