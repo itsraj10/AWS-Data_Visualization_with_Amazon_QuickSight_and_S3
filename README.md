@@ -3,7 +3,7 @@
 Project Overview
 ____________________________________________________________________________________________________________________________
 
-In this AWS project, The aim is to visualize real-time data using Amazon QuickSight, Amazon S3, and Bright Data. The project involves extracting, storing, and analyzing data related to best-selling products. The insights gained from this data can be used for various business strategies, such as price comparison, product title analysis, and identifying leading sellers.
+This AWS project aims to visualize real-time data using Amazon QuickSight, Amazon S3, and Bright Data. The project involves extracting, storing, and analyzing data related to best-selling products. The insights gained from this data can be used for various business strategies, such as price comparison, product title analysis, and identifying leading sellers.
 
 ![s3 and quicksight](https://github.com/user-attachments/assets/50ade530-e90e-4155-9b05-d3c5e226f58b)
 
